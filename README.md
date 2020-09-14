@@ -1,5 +1,5 @@
 # online-news-popularity-regression
-Proyecto no exitoso.
+NO funciona
 
 Trabajo en clase con algoritmo de regresion supervisado
 
