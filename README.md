@@ -1,5 +1,5 @@
 # online-news-popularity-regression
-
+TC3 - Regression
 Resultados insatisfactorios debido a que no se cuenta con el tiempo disponible para trabajar este algoritmo.
 
 ![alt text](https://github.com/eildgc/online-news-popularity-regression/blob/master/images/acc_result.png?raw=true)
